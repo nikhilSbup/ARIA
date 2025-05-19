@@ -1,0 +1,202 @@
+[
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems you haven't asked a question yet. Please go ahead and ask, I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You still haven't asked a question. Please provide a question so I can assist you."
+    },
+    {
+        "role": "user",
+        "content": ".."
+    },
+    {
+        "role": "assistant",
+        "content": "It appears you're not providing a question. Please ask something so I can provide a helpful response."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You need to provide a actual question for me to answer."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Please provide a clear and specific question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm waiting for your question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Please ask something."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You still haven't asked a question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm here to help, please ask a question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Please provide a question to get an answer."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Ask a question to get started."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You need to ask a question for me to respond."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Please type a question."
+    },
+    {
+        "role": "user",
+        "content": "What's the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "16:00:17."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You need to ask a question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Please ask something."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Nikhil Singh."
+    },
+    {
+        "role": "user",
+        "content": "What's my location?"
+    },
+    {
+        "role": "assistant",
+        "content": "That information is not available."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "You haven't asked a question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You still haven't asked a question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Please ask something."
+    },
+    {
+        "role": "user",
+        "content": "& c:/Users/Nikhil/Desktop/ARIA/.venv/Scripts/python.exe c:/Users/Nikhil/Desktop/ARIA/main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're providing a command or code, but you haven't asked a question. Please ask something so I can assist you."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You need to ask a question."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "Please ask something."
+    },
+    {
+        "role": "user",
+        "content": "?."
+    },
+    {
+        "role": "assistant",
+        "content": "You still haven't asked a question."
+    }
+]
